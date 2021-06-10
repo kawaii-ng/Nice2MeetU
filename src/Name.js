@@ -106,6 +106,7 @@ function Name() {
                                 autoComplete: 'off'
 
                             }}
+                            onChange={(e) => setName(e.target.value)}
                             name="user"
                             type="text"                            
                         />
