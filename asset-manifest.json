@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Nice2MeetU/static/css/main.b656626f.chunk.css",
+    "main.js": "/Nice2MeetU/static/js/main.9fe97896.chunk.js",
+    "main.js.map": "/Nice2MeetU/static/js/main.9fe97896.chunk.js.map",
+    "runtime-main.js": "/Nice2MeetU/static/js/runtime-main.ee7e8db6.js",
+    "runtime-main.js.map": "/Nice2MeetU/static/js/runtime-main.ee7e8db6.js.map",
+    "static/js/2.14fd0c44.chunk.js": "/Nice2MeetU/static/js/2.14fd0c44.chunk.js",
+    "static/js/2.14fd0c44.chunk.js.map": "/Nice2MeetU/static/js/2.14fd0c44.chunk.js.map",
+    "index.html": "/Nice2MeetU/index.html",
+    "static/css/main.b656626f.chunk.css.map": "/Nice2MeetU/static/css/main.b656626f.chunk.css.map",
+    "static/js/2.14fd0c44.chunk.js.LICENSE.txt": "/Nice2MeetU/static/js/2.14fd0c44.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee7e8db6.js",
+    "static/js/2.14fd0c44.chunk.js",
+    "static/css/main.b656626f.chunk.css",
+    "static/js/main.9fe97896.chunk.js"
+  ]
+}
