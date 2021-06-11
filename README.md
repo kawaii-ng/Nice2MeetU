@@ -1,6 +1,6 @@
 # Nice2MeetU App 
 ###### Side Project | App
-It is a tool for lucky draw with my new friedns.
+It is a tool for lucky draw with my new friends.
 
 Link: https://kawaii-ng.github.io/Nice2MeetU/
 
@@ -10,12 +10,14 @@ Link: https://kawaii-ng.github.io/Nice2MeetU/
 - Faciliatate my friends to draw the card instead of drawing from 100 cards in real life
 - Collect the name and card number immediately once my friends use this app
 
+### Feature(s)
+1. Background color changes after a certain time
+2. The number will count from 0 until it equals to the lucky number
+
 ### Function(s)
 1. Allow users input their name
 2. Automatically and randomly generate a number 
 3. Data (including users' name & number) is sent via email automatically
-4. Background color changes after a certain time
-5. The number will count from 0 until it equals to the lucky number
 
 ### Technical Skill(s)
 - React.js
