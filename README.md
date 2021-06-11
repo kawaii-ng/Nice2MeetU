@@ -32,14 +32,18 @@ Visual Studio Code
 
 ## Usage
 1. Click "Next" button to go to next page
+
 ![usage_step_01](https://user-images.githubusercontent.com/55972286/121630321-7d95f800-caaf-11eb-9af2-0d05552baba5.PNG)
 
 2. Enter your nick name into the textbox
-3. ![usage_step_02_a](https://user-images.githubusercontent.com/55972286/121630371-9b635d00-caaf-11eb-84bf-0b8acf66f1b0.PNG)
+
+![usage_step_02_a](https://user-images.githubusercontent.com/55972286/121630371-9b635d00-caaf-11eb-84bf-0b8acf66f1b0.PNG)
 
 3. If the textbox is blank, it will show the error message. 
+
 ![usage_step_02_b](https://user-images.githubusercontent.com/55972286/121630393-a3bb9800-caaf-11eb-8302-eb293f20f62b.PNG)
 
-5. Click "Draw Your Card" Button to draw a card number
+4. Click "Draw Your Card" Button to draw a card number
+
 ![usage_step_03](https://user-images.githubusercontent.com/55972286/121630406-a918e280-caaf-11eb-9358-1cbc7dc0aa68.PNG)
 
