@@ -1,5 +1,8 @@
-# Nice2MeetU App
+# Nice2MeetU App 
+###### Side Project | App
 It is a tool for lucky draw with my new friedns.
+
+Link: https://kawaii-ng.github.io/Nice2MeetU/
 
 ## Overview
 ### Objective(s)
@@ -7,49 +10,36 @@ It is a tool for lucky draw with my new friedns.
 - Faciliatate my friends to draw the card instead of drawing from 100 cards in real life
 - Collect the name and card number immediately once my friends use this app
 
-###Function(s)
+### Function(s)
 1. Allow users input their name
 2. Automatically and randomly generate a number 
 3. Data (including users' name & number) is sent via email automatically
 4. Background color changes after a certain time
 5. The number will count from 0 until it equals to the lucky number
 
-###Dev Tool(s)
+### Technical Skill(s)
+- React.js
+- Javascript
+- HTML
+- CSS
+
+### Dev Tool(s)
 Visual Studio Code
 
-### API (s)
+### Dependent(s)
 - Email.js
+- Material UI
 
-## Function(s)
-### change_bg()
-#### Objective(s)
-- changes the background color to another one after a certain time
+## Usage
+1. Click "Next" button to go to next page
+![usage_step_01](https://user-images.githubusercontent.com/55972286/121630321-7d95f800-caaf-11eb-9af2-0d05552baba5.PNG)
 
-#### Procedure(s)
+2. Enter your nick name into the textbox
+3. ![usage_step_02_a](https://user-images.githubusercontent.com/55972286/121630371-9b635d00-caaf-11eb-84bf-0b8acf66f1b0.PNG)
 
-```React.js
-  const change_bg = () => {
+3. If the textbox is blank, it will show the error message. 
+![usage_step_02_b](https://user-images.githubusercontent.com/55972286/121630393-a3bb9800-caaf-11eb-8302-eb293f20f62b.PNG)
 
-    setInterval(() => {
+5. Click "Draw Your Card" Button to draw a card number
+![usage_step_03](https://user-images.githubusercontent.com/55972286/121630406-a918e280-caaf-11eb-9358-1cbc7dc0aa68.PNG)
 
-      let index = rand_bg();
-      setBg(bgSet[index]);
-
-    }, 10000)
-
-  }
-  ```
-`setInterval()` is used for running the specific code at every 10 seconds. 
-
-```React.js
-  const rand_bg = () => {
-
-    let index = Math.floor(Math.random() * 6);
-    return index;
-
-  }
-```
-
-`rand_bg()` is the function to generate the radom number and specifiy the new index of getting the new background color code from `bgSet`. `bgSet` is a array that contains 6 different background color code. 
-
-#### Result(s)
