@@ -1,5 +1,5 @@
-# Nice2MeetU App 
-###### Side Project | App
+# Nice2MeetU App - v1.0
+###### Side Project | App | 10 Jun 2021
 It is a tool for lucky draw with my new friends.
 
 Link: https://kawaii-ng.github.io/Nice2MeetU/
